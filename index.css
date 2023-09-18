@@ -3,6 +3,8 @@ html, body {
     padding: 0;
     background: #1B1924;
     color: white;
+    user-select: none;
+    
 }
 
 .container {
